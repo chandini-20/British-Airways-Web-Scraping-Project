@@ -1,4 +1,6 @@
 # British-Airways-Web-Scraping-Project
+![image](https://github.com/user-attachments/assets/73e8fc0a-76a5-408f-aa7f-6adec435e466)
+
 
 Collected unstructured customer review data from airlinequality.com using web scraping techniques
 
